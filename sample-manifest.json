@@ -1,0 +1,12 @@
+{
+  "export_job_id": "64dae0d6-c42e-4200-8984-d5fe025f3e6a",
+  "id_short": 307088,
+  "published_at": "2026-04-12T07:10:19Z",
+  "repo_name": "tech-ready-restaurants-in-the-phoenix-mesa-chandler-metro-area-az-us-sample-307088",
+  "sample_asset_name": "beamstation_307088_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/307088/beamstation_307088_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "c5b13807f5802ab9667beacd85b86cc36989008cce083adee03e26015b45e7a0",
+  "sample_size_bytes": 20129,
+  "total_records": 19
+}
